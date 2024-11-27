@@ -5,7 +5,7 @@
 ###
 ✨ **Creating new possibilities since 2024**  
 🚀 **I am a fresher excited to learn and grow in the tech world!**  
-📚 **Skills Acquired:** HTML, CSS, SQL ,JavaScript, Python  
+📚 **Skills Acquired:** HTML, CSS, SQL , Python  
 🎯 **Goals:**  
 - Build my first full-stack web application  
 - Master Python and built robust websites
@@ -32,7 +32,6 @@
   <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" />
 <img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
 
 ###
 <h2 align="left">Frameworks</h2>
