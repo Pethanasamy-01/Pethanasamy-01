@@ -1,15 +1,27 @@
 <h1 align="left">Hey There👋 Myself Pethanasamy</h1>
 
-<h2 align="left">About me</h2>
 
-###
-✨ **Creating new possibilities since 2024**  
-🚀 **I am a fresher excited to learn and grow in the tech world!**  
-📚 **Skills Acquired:** HTML, CSS, SQL , Python  
-🎯 **Goals:**  
-- Build my first full-stack web application  
-- Master Python and built robust websites
-- Contribute to open-source projects on GitHub
+# 🌟 **Passionate Full Stack Developer Ready to Make an Impact!**
+
+🚀 **I'm a Full Stack Developer with a strong foundation in web development and eager to continue learning and growing in the tech world.**  
+💻 **Skills & Technologies:**  
+- Front-End: HTML, CSS, JavaScript  
+- Back-End: Python, Django, Flask  
+- Databases: MySQL, SQLite
+- RESTful APIs: Django REST API, Flask REST API 
+- Version Control: Git, GitHub  
+- API Testing: Postman  
+
+🎯 **Current Goals:**  
+- Build innovative and scalable web applications  
+- Enhance my expertise in full-stack development  
+- Contribute to open-source projects and collaborate with global tech communities  
+- Secure a challenging role where I can apply my skills, learn, and grow in a professional environment
+
+📚 **Looking for Opportunities:**  
+I’m actively seeking job opportunities in Full Stack Development where I can contribute to building impactful solutions, work in collaborative environments, and continue growing my skill set.
+
+
   
 🎲 **Fun fact:** I read books everyday 😊!
 
@@ -32,8 +44,12 @@
   <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" />
 <img width="12" />
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
+<img width="12" />
+  
 ###
+
+
 <h2 align="left">Frameworks</h2>
 
 <p align="left"> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo" /></a> </p>
