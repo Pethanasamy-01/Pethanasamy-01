@@ -5,8 +5,8 @@
 
 🚀 **I'm a Full Stack Developer with a strong foundation in web development and eager to continue learning and growing in the tech world.**  
 💻 **Skills & Technologies:**  
-- Front-End: HTML, CSS, JavaScript  
-- Back-End: Python, Django, Flask  
+- Front-End: HTML, CSS, JavaScript, Bootstrap
+- Back-End: Python, Django, Flask, SQL
 - Databases: MySQL, SQLite
 - RESTful APIs: Django REST API, Flask REST API 
 - Version Control: Git, GitHub  
@@ -52,7 +52,8 @@ I’m actively seeking job opportunities in Full Stack Development where I can c
 
 <h2 align="left">Frameworks</h2>
 
-<p align="left"> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo" /></a> </p>
+<p align="left"> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo" /></a> </p>
+
 
 
 ###
