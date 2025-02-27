@@ -7,10 +7,11 @@
 💻 **Skills & Technologies:**  
 - Front-End: HTML, CSS, JavaScript, Bootstrap
 - Back-End: Python, Django, Flask, SQL
-- Databases: MySQL, SQLite
+- Databases: MySQL, SQLite, MongoDB
 - RESTful APIs: Django REST API, Flask REST API 
 - Version Control: Git, GitHub  
-- API Testing: Postman  
+- API Testing: Postman
+- IDE's: Visual Studio Code, Pycharm 
 
 🎯 **Current Goals:**  
 - Build innovative and scalable web applications  
@@ -40,6 +41,8 @@ I’m actively seeking job opportunities in Full Stack Development where I can c
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo" />
 <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" />
+<img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
   <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" />
@@ -64,7 +67,10 @@ I’m actively seeking job opportunities in Full Stack Development where I can c
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" alt="postman logo" />
 <img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" height="40" alt="heroku logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo" />
 <img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
+<img width="12" />
+
 
 
